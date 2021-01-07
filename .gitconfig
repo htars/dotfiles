@@ -1,0 +1,7 @@
+[user]
+	email = hymyhds@gmail.com
+	name = Yohei Hiyama
+[core]
+	editor = emacs
+[color]
+	ui = auto
